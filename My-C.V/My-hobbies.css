@@ -1,0 +1,18 @@
+body {}
+
+table {
+    margin: 20px;
+}
+
+scope {
+    font-weight: bold;
+
+}
+
+span {
+    color: rgb(255, 136, 0);
+}
+
+td {
+    font-size: 18px;
+}

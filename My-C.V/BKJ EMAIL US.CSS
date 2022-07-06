@@ -1,0 +1,24 @@
+jumbotron {
+    text-align: center;
+}
+
+label {
+    color: brown;
+
+}
+
+input {
+    border-radius: 5px;
+    background-color: rgb(82, 72, 72);
+    color: whitesmoke;
+}
+
+textarea {
+    border-radius: 10px;
+}
+
+p {
+    margin-left: 20%;
+    padding-top: 3%;
+
+}
